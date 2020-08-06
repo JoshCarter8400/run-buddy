@@ -8,6 +8,7 @@ A website that offers fitness training services
 * CSS
 
 ## Website
+https://joshcarter8400.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Josh Carter
