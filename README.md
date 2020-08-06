@@ -1,3 +1,13 @@
 # Run-Buddy
 
-This is the landing page and privacy policy that is only viewable on laptops or PCs and allows clinets to sign up for services
+## Purpose
+A website that offers fitness training services
+
+## Built with 
+* HTML
+* CSS
+
+## Website
+
+## Contribution
+Made with ❤️ by Josh Carter
