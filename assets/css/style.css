@@ -267,23 +267,17 @@ section {
     display: inline-block;
 }
 
-#full {
-    width: 80%;
-    margin: 0 auto;
-}
-
 .contact h2 {
     color: #fce138;
 }
 
-iframe.contact-info {
+.contact-info iframe {
     width: 400px;
     height: 400px;
-    margin: 0;
 }
 
-div.contact-info {
-    width: 420px;
+.contact-info div {
+    width: 410px;
     display: inline-block;
     vertical-align: top;
     text-align: left;
@@ -302,6 +296,7 @@ div.contact-info {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    color: white;
 }
 
 .contact-info a {
