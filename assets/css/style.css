@@ -267,6 +267,11 @@ section {
     display: inline-block;
 }
 
+#full {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .contact h2 {
     color: #fce138;
 }
