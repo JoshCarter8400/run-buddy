@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run-Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services
@@ -14,3 +14,6 @@ https://joshcarter8400.github.io/run-buddy/
 Made with ❤️ by Josh Carter
 
 ### ©️2019 Run Buddy, Inc
+# RUN-BUDDY 2.0
+
+This is a version of Run-Buddy that will be responsive for the users and will be written so that is viewable on multiple devices.
