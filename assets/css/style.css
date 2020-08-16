@@ -359,10 +359,10 @@
             top: 0;
             left: 0;
             opacity: 0;
-            transition-timing-function: linear;
+            transition: 0.5s;
         }
         
-        .trainer-img:hover {
+        .trainer:hover .trainer-img::after {
             opacity: 1;
             background: linear-gradient( rgba(252, 225, 56, 0.3), #024e76);
         }
